@@ -1,4 +1,4 @@
-module github.com/cheshir/go-mq
+module github.com/cheshir/go-mq/v2
 
 go 1.16
 
